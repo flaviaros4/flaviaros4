@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://gifdb.com/images/high/anime-jojo-s-bizarre-josuke-waving-hello-fr1wst8h8g6wc4kp.gif"  />
+  <img height="150" src=""  />
 </div>
 
 ###
