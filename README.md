@@ -1,36 +1,71 @@
-# Olá, 👋 Eu sou Flavia!
+<h1 align="center">Hello There 👋</h1>
 
-🌟 **Sobre Mim**
-- Sou apaixonada por tecnologia e estou constantemente em busca de conhecimento e desafios que me permitam criar coisas incríveis.
-- Recentemente, tomei a decisão definitiva de seguir meu interesse pela programação e transformá-lo em uma jornada de aprendizado e crescimento.
-- Embora eu tenha começado minha jornada há pouco tempo, estou empolgada para explorar novas linguagens, ferramentas e projetos.
-- Este perfil será meu diário público de bordo, onde compartilharei minhas aventuras no mundo da programação.
+###
 
-🌍 **Localização:** Curitiba, PR  
-👩‍💻 **Estudos Atuais:** Desenvolvimento Front-end e Back-end.
+<div align="center">
+  <img height="150" src="https://gifdb.com/images/high/anime-jojo-s-bizarre-josuke-waving-hello-fr1wst8h8g6wc4kp.gif"  />
+</div>
 
-## Conecte-se comigo
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/flaviarosa25/)
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
-## Habilidades 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+###
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviaros4&theme=ocean_dark&bg_color=#151a28&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Minhas Contribuições
+<p align="left">💜 Meu nome é Flavia e tenho 21 anos.<br>🌍 Sou de Curitiba, PR.<br>💻 Estudo desenvolvimento de software com foco em Back-End na Cubos Academy.<br>⚡ Amo aprender sobre os mais variados assuntos. Além da tecnologia, sou apaixonada por artes, especialmente música e cinema; posso passar horas falando sobre.<br>🐱 Apaixonada por animais. Tenho 3 gatos e 1 doguinho.</p>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flaviaros4&repo=js-developer-pokedex&bg_color=151a28&border_color=FFF&show_icons=true&icon_color=FFF&title_color=8957B2&text_color=79c433)](https://github.com/flaviaros4/js-developer-pokedex)
+###
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flaviaros4&repo=trilha-css-desafio-01&bg_color=151a28&border_color=FFF&show_icons=true&icon_color=FFF&title_color=8957B2&text_color=79c433)](https://github.com/flaviaros4/trilha-css-desafio-01)
+<h3 align="left">🌐 Minhas redes sociais</h3>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flaviaros4&repo=desafio-html-2&bg_color=151a28&border_color=FFF&show_icons=true&icon_color=FFF&title_color=8957B2&text_color=79c433)](https://github.com/flaviaros4/desafio-html-2)
+###
 
+<div align="center">
+  <a href="www.linkedin.com/in/flaviarosa25" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/flaviarosa__/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="flaviarosa8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-Agradeço por visitar meu perfil e espero que encontre algo interessante aqui. 😊
+###
 
+<h3 align="left">🛠 Habilidades</h3>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥  Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flaviaros4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviaros4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=flaviaros4&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/flaviaros4/count.svg?"  />
+</div>
+
+###
