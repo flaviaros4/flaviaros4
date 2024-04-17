@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💜 Meu nome é Flavia e tenho 22 anos.<br>🌍 Sou de Curitiba, PR.<br>💻 Estudo desenvolvimento de software com foco em Back-End na Cubos Academy.<br>⚡ Amo aprender sobre os mais variados assuntos. Além da tecnologia, sou apaixonada por artes, especialmente música e cinema. <br>🐱 Apaixonada por animais. Tenho 3 gatos e 1 doguinho.</p>
+<p align="left">💜 Meu nome é Flavia e tenho 22 anos.<br>🌍 Sou de Curitiba, PR.<br>💻 Estudo Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR).<br>⚡ Amo aprender sobre os mais variados assuntos. Além da tecnologia, sou apaixonada por artes, especialmente música e cinema. <br>🐱 Apaixonada por animais. Tenho 3 gatos e 1 doguinho.</p>
 
 ###
 
